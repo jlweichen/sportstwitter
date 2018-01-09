@@ -27,7 +27,6 @@ while topic != 'done':
 
 
 csvFile = open(fileName +'.csv', 'a')
-#csvFile.write("")
 csvWriter = csv.writer(csvFile)
 csvWriter.writerow(['author', 'time', 'text'])
 fileName = fileName+'.csv'
