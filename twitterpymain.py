@@ -25,6 +25,7 @@ while topic != 'done':
     topic = str(input("Give a filter term, or type 'done':"))
     topicList.append(topic)
 
+print(topicList)
 
 csvFile = open(fileName +'.csv', 'a')
 csvWriter = csv.writer(csvFile)
