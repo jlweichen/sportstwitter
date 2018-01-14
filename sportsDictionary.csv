@@ -1,0 +1,420 @@
+name,sport,team1
+Daniel Carlson,fbs,Auburn Tigers
+Gus Malzahn,fbs,Auburn Tigers
+#CitrusBowl,fbs,Citrus Bowl
+Dabo Swinney,fbs,Clemson Tigers
+#FiestaBowl,fbs,Fiesta Bowl
+Chark,fbs,Louisiana State U Tigers 
+Derrius Guice,fbs,Louisiana State U Tigers 
+Etling,fbs,Louisiana State U Tigers 
+Pete Jenkins,fbs,Louisiana State U Tigers 
+#CFPNationalChampionship,fbs,NCAA FBS Championship
+Brian Kelly,fbs,Notre Dame Fighting Irish
+Josh Adams,fbs,Notre Dame Fighting Irish
+Julian Love,fbs,Notre Dame Fighting Irish
+Nyles Morgan,fbs,Notre Dame Fighting Irish
+Wimbush,fbs,Notre Dame Fighting Irish
+Tyreke Johnson,fbs,Ohio State U Buckeyes
+#OrangeBowl,fbs,Orange Bowl
+#OutbackBowl,fbs,Outback Bowl
+#PeachBowl,fbs,Peach Bowl
+Jalen Hurts,fbs,U of Alabama Crimson Tide
+Mack Wilson,fbs,U of Alabama Crimson Tide
+Kevin Sumlin,fbs,U of Arizona Wildcats
+Lamar Jackson,fbs,U of Louisville Cardinals
+Manny Diaz,fbs,U of Miami Hurricanes
+Mark Richt,fbs,U of Miami Hurricanes
+Rosier,fbs,U of Miami Hurricanes
+Brad Robbins,fbs,U of Michigan Wolverines
+Mo Hurst,fbs,U of Michigan Wolverines
+Quinn Nordin,fbs,U of Michigan Wolverines
+Scott Frost,fbs,U of Nebraska Cornhuskers
+Rico Dowdle,fbs,U of South Carolina Gamecocks
+Jauan Jennings,fbs,U of Tennessee Volunteers
+Danny Davis,fbs,U of Wisconsin Badgers
+Van Ginkel,fbs,U of Wisconsin Badgers
+Ken Niumatalolo,fbs,US Naval Academy
+#USHLTPG,hockey,US Hockey
+Keith Jackson,media,ABC Sports
+AP Poll,media,Associated Press
+AP Top 25,media,Associated Press
+Dan Fouts,media,CBS Sports
+Jim Nantz,media,CBS Sports
+#FFNow,media,ESPN
+Lee Corso,media,ESPN
+Steve Levy,media,ESPN
+Jason Mendoza,media,fictional Jacksonville Jaguars fan
+Gus Johnson,media,Fox Sports
+Pam Oliver,media,Fox Sports
+Gerrit Cole,mlb,Houston Astros
+Rene Rivera,mlb,Los Angeles Angels
+Dave Roberts,mlb,Los Angeles Dodgers
+Starlin Castro,mlb,Miami Marlins
+Addison Reed,mlb,Minnesota Twins
+Adrian Gonzalez,mlb,New York Mets
+Roberto Clemente,mlb,Pittsburgh Pirates
+Megan Anderson,mma,Invicta FC
+#RIZIN,mma,Rizin Fighting Federation
+#RIZIN2017,mma,Rizin Fighting Federation
+#RIZINFF,mma,Rizin Fighting Federation
+#InvictaFC27,mma,UFC
+#UFC219,mma,UFC
+Uriah Hall,mma,UFC
+Mike Muscala,nba,Atlanta Hawks
+Kris Dunn,nba,Chicago Bulls
+Zach LaVine,nba,Chicago Bulls
+Trey Lyles,nba,Denver Nuggets
+Steph Curry,nba,Golden State Warriors
+Randle,nba,Los Angeles Lakers
+James Johnson,nba,Miami Heat
+Wayne Ellington,nba,Miami Heat
+#Pelicans,nba,New Orleans Pelicans
+Joakim Noah,nba,New York Knicks
+Trey Burke,nba,New York Knicks
+Jerryd Bayless,nba,Philadelphia 76ers
+CJ McCollum,nba,Portland Trail Blazers
+Donovan Mitchell,nba,Utah Jazz
+Wizards,nba,Washington Wizards
+#ASUvsUofA,ncaab,Arizona State U Sun Devils
+Kodi Justice,ncaab,Arizona State U Sun Devils
+Remy Martin,ncaab,Arizona State U Sun Devils
+Romello White,ncaab,Arizona State U Sun Devils
+Shannon Evans,ncaab,Arizona State U Sun Devils
+Tra Holder,ncaab,Arizona State U Sun Devils
+#BoiseState,ncaab,Boise State Broncos
+Chandler Hutchison,ncaab,Boise State Broncos
+Grayson Allen,ncaab,Duke Blue Devils
+Jeff Capel,ncaab,Duke Blue Devils
+Donovan Jackson,ncaab,Iowa State Cyclones
+Gavin Schilling,ncaab,Michigan State Spartans
+Nick Ward,ncaab,Michigan State Spartans
+Blake Harris,ncaab,North Carolina State Wolfpack
+Oregon State,ncaab,Oregon State U Beavers
+Carsen Edwards,ncaab,Purdue Boilermakers
+Dakota Mathias,ncaab,Purdue Boilermakers
+Haas,ncaab,Purdue Boilermakers
+Vincent Edwards,ncaab,Purdue Boilermakers
+Ted Valentine,ncaab,Referee
+Savannah State,ncaab,Savannah State Tigers
+Myles Powell,ncaab,Seton Hall Pirates
+#RollWave,ncaab,Tulane Green Wave
+Deandre Ayton,ncaab,U of Arizona Wildcats
+Dylan Smith,ncaab,U of Arizona Wildcats
+Sean Miller,ncaab,U of Arizona Wildcats
+Yante Maten,ncaab,U of Georgia Bulldogs
+De'Ron Davis,ncaab,U of Indiana Hoosiers
+Allen Fieldhouse,ncaab,U of Kansas Jayhawks
+Malik Newman,ncaab,U of Kansas Jayhawks
+Silvio De Sousa,ncaab,U of Kansas Jayhawks
+Rupp,ncaab,U of Kentucky Wildcats
+Ivan Bender,ncaab,U of Maryland Terrapins
+Wagner,ncaab,U of Michigan Wolverines
+Zavier Simpson,ncaab,U of Michigan Wolverines
+#UNLVmbb,ncaab,U of Nevada Las Vegas Rebels
+Luke Maye,ncaab,U of North Carolina Tarheels
+Brady Manek,ncaab,U of Oklahoma Sooners
+Trae Young,ncaab,U of Oklahoma Sooners
+Grant Williams,ncaab,U of Tennessee Volunteers
+Andrew Jones,ncaab,U of Texas Longhorns
+Wisconsin 59,ncaab,U of Wisconsin Badgers
+Thomas Welsh,ncaab,UCLA Bruins
+Saben Lee,ncaab,Vanderbilt Commodores
+Trent Frederic,ncaahockey,U of Wisconsin Badgers
+A'ja Wilson,ncaaw,U of South Carolina Gamecocks
+#LadyVols,ncaaw,U of Tennessee Volunteers
+#AZvsSEA,nfl,Arizona Cardinals
+Bruce Arians,nfl,Arizona Cardinals
+Drew Stanton,nfl,Arizona Cardinals
+#RiseUp,nfl,Atlanta Falcons
+Arthur Blank,nfl,Atlanta Falcons
+Chandler Jones,nfl,Atlanta Falcons
+Dan Quinn,nfl,Atlanta Falcons
+Devonta Freeman,nfl,Atlanta Falcons
+Falcons,nfl,Atlanta Falcons
+Freeman,nfl,Atlanta Falcons
+Julio Jones,nfl,Atlanta Falcons
+Keanu Neal,nfl,Atlanta Falcons
+Robert Alford,nfl,Atlanta Falcons
+Sark,nfl,Atlanta Falcons
+Taylor Gabriel,nfl,Atlanta Falcons
+Mike Wallace,nfl,Baltimore Ravens
+Ravens,nfl,Baltimore Ravens
+#GoBills,nfl,Buffalo Bills
+#CARvsATL,nfl,Carolina Panthers
+Greg Olsen,nfl,Carolina Panthers
+Jonathan Stewart,nfl,Carolina Panthers
+Steve Wilks,nfl,Carolina Panthers
+#Bears,nfl,Chicago Bears
+#CHIvsMIN,nfl,Chicago Bears
+Bears,nfl,Chicago Bears
+Bryce Callahan,nfl,Chicago Bears
+Eddie Goldman,nfl,Chicago Bears
+John Fox,nfl,Chicago Bears
+Marcus Cooper,nfl,Chicago Bears
+Mike Nugent,nfl,Chicago Bears
+Tarik Cohen,nfl,Chicago Bears
+The Bears,nfl,Chicago Bears
+Trubisky,nfl,Chicago Bears
+Mike Brown,nfl,Cincinnati Bengals
+#Browns,nfl,Cleveland Browns
+#CLEvsPIT,nfl,Cleveland Browns
+Browns,nfl,Cleveland Browns
+Duke Johnson,nfl,Cleveland Browns
+Eliot Wolf,nfl,Cleveland Browns
+Jabrill Peppers,nfl,Cleveland Browns
+Josh Gordon,nfl,Cleveland Browns
+Kizer,nfl,Cleveland Browns
+Rashard Higgins,nfl,Cleveland Browns
+The Browns,nfl,Cleveland Browns
+Zane Gonzalez,nfl,Cleveland Browns
+#DALvsPHI,nfl,Dallas Cowboys
+Brice Butler,nfl,Dallas Cowboys
+Byron Bell,nfl,Dallas Cowboys
+Dan Bailey,nfl,Dallas Cowboys
+Jason Witten,nfl,Dallas Cowboys
+Jonathan Cooper,nfl,Dallas Cowboys
+Sean Lee,nfl,Dallas Cowboys
+Terrance Williams,nfl,Dallas Cowboys
+Broncos,nfl,Denver Broncos
+C.J. Anderson,nfl,Denver Broncos
+De'Angelo Henderson,nfl,Denver Broncos
+Shelby Harris,nfl,Denver Broncos
+#Lions,nfl,Detroit Lions
+#OnePride,nfl,Detroit Lions
+Don Carey,nfl,Detroit Lions
+Golden Tate,nfl,Detroit Lions
+Golladay,nfl,Detroit Lions
+Jarrad Davis,nfl,Detroit Lions
+Jim Caldwell,nfl,Detroit Lions
+Kenny Golladay,nfl,Detroit Lions
+Teez Tabor,nfl,Detroit Lions
+#ThankYouFans,nfl,Gameday
+#GBvsDET,nfl,Green Bay Packers
+Brett Hundley,nfl,Green Bay Packers
+Dom Capers,nfl,Green Bay Packers
+Hundley,nfl,Green Bay Packers
+Janis,nfl,Green Bay Packers
+Joe Callahan,nfl,Green Bay Packers
+Mike Daniels,nfl,Green Bay Packers
+Mike Pettine,nfl,Green Bay Packers
+Trevor Davis,nfl,Green Bay Packers
+#HOUvsIND,nfl,Houston Texans
+Alfred Blue,nfl,Houston Texans
+Bill O'Brien,nfl,Houston Texans
+Rick Smith,nfl,Houston Texans
+#Colts,nfl,Indianapolis Colts
+Frank Gore,nfl,Indianapolis Colts
+Jack Doyle,nfl,Indianapolis Colts
+Marlon Mack,nfl,Indianapolis Colts
+Bouye,nfl,Jacksonville Jaguars
+Chris Ivory,nfl,Jacksonville Jaguars
+Dede Westbrook,nfl,Jacksonville Jaguars
+Doug Marrone,nfl,Jacksonville Jaguars
+Fournette,nfl,Jacksonville Jaguars
+Jalen Ramsey,nfl,Jacksonville Jaguars
+Keelan Cole,nfl,Jacksonville Jaguars
+Lambo,nfl,Jacksonville Jaguars
+Leonard,nfl,Jacksonville Jaguars
+Telvin Smith,nfl,Jacksonville Jaguars
+TJ Yeldon,nfl,Jacksonville Jaguars
+Tom Coughlin,nfl,Jacksonville Jaguars
+Yannick Ngakoue,nfl,Jacksonville Jaguars
+Yeldon,nfl,Jacksonville Jaguars
+#ChiefsKingdom,nfl,Kansas City Chiefs
+Kareem Hunt,nfl,Kansas City Chiefs
+Mahomes,nfl,Kansas City Chiefs
+Patrick Mahomes,nfl,Kansas City Chiefs
+Chargers,nfl,Los Angeles Chargers
+Keenan Allen,nfl,Los Angeles Chargers
+Roberto Aguayo,nfl,Los Angeles Chargers
+#GoKingsGo,nfl,Los Angeles Kings
+David Fales,nfl,Miami Dolphins
+#BringItHome,nfl,Minnesota Vikings
+#Skol,nfl,Minnesota Vikings
+Anthony Barr,nfl,Minnesota Vikings
+Keenum,nfl,Minnesota Vikings
+Latavius Murray,nfl,Minnesota Vikings
+QB Sam Bradford,nfl,Minnesota Vikings
+Stefon Diggs,nfl,Minnesota Vikings
+Teddy Bridgewater,nfl,Minnesota Vikings
+The Vikings,nfl,Minnesota Vikings
+Trae Waynes,nfl,Minnesota Vikings
+Vikings,nfl,Minnesota Vikings
+Xavier Rhodes,nfl,Minnesota Vikings
+#Patriots,nfl,New England Patriots
+Amendola,nfl,New England Patriots
+Brian Hoyer,nfl,New England Patriots
+Chris Hogan,nfl,New England Patriots
+Cooks,nfl,New England Patriots
+Danny Amendola,nfl,New England Patriots
+Dion Lewis,nfl,New England Patriots
+Elandon Roberts,nfl,New England Patriots
+Eric Lee,nfl,New England Patriots
+Gillette Stadium,nfl,New England Patriots
+James Harrison,nfl,New England Patriots
+Jonathan Jones,nfl,New England Patriots
+Kyle Van Noy,nfl,New England Patriots
+Lawrence Guy,nfl,New England Patriots
+Marquis Flowers,nfl,New England Patriots
+Matt Patricia,nfl,New England Patriots
+Patriots,nfl,New England Patriots
+#GoSaints,nfl,New Orleans Saints
+#NOvsMIN,nfl,New Orleans Saints
+#NOvsTB,nfl,New Orleans Saints
+Alvin Kamara,nfl,New Orleans Saints
+Marcus Williams,nfl,New Orleans Saints
+Saints or Vikings,nfl,New Orleans Saints
+Who Dat,nfl,New Orleans Saints
+#GiantsPride,nfl,New York Giants
+Hunter Sharp,nfl,New York Giants
+Orleans Darkwa,nfl,New York Giants
+#NYJvsNE,nfl,New York Jets
+Bryce Petty,nfl,New York Jets
+Buster Skrine,nfl,New York Jets
+David Bass,nfl,New York Jets
+Jamal Adams,nfl,New York Jets
+Jets,nfl,New York Jets
+JoJo Natson,nfl,New York Jets
+Marcus Maye,nfl,New York Jets
+Morris Claiborne,nfl,New York Jets
+Petty,nfl,New York Jets
+Robby Anderson,nfl,New York Jets
+#OAKvsLAC,nfl,Oakland Raiders
+Amari Cooper,nfl,Oakland Raiders
+Crabtree,nfl,Oakland Raiders
+Jon Gruden,nfl,Oakland Raiders
+Tom Cable,nfl,Oakland Raiders
+Best WR,nfl,opinion
+#FlyEaglesFly,nfl,Philadelphia Eagles
+Agholor,nfl,Philadelphia Eagles
+Alshon Jeffery,nfl,Philadelphia Eagles
+Brandon Graham,nfl,Philadelphia Eagles
+Darby,nfl,Philadelphia Eagles
+Donnie Jones,nfl,Philadelphia Eagles
+Eagles,nfl,Philadelphia Eagles
+Foles,nfl,Philadelphia Eagles
+Jalen Mills,nfl,Philadelphia Eagles
+Jay Ajayi,nfl,Philadelphia Eagles
+Jeffrey Lurie,nfl,Philadelphia Eagles
+Jenkins,nfl,Philadelphia Eagles
+Jim Schwartz,nfl,Philadelphia Eagles
+Lane Johnson,nfl,Philadelphia Eagles
+Nate Sudfeld,nfl,Philadelphia Eagles
+Rasul Douglas,nfl,Philadelphia Eagles
+Sidney Jones,nfl,Philadelphia Eagles
+Sudfeld,nfl,Philadelphia Eagles
+Torrey Smith,nfl,Philadelphia Eagles
+Vinny Curry,nfl,Philadelphia Eagles
+#HereWeGo,nfl,Pittsburgh Steelers
+Antonio Brown,nfl,Pittsburgh Steelers
+Artie Burns,nfl,Pittsburgh Steelers
+Ben Roethlisberger,nfl,Pittsburgh Steelers
+Darrius Heyward-Bey,nfl,Pittsburgh Steelers
+David DeCastro,nfl,Pittsburgh Steelers
+Heinz Field,nfl,Pittsburgh Steelers
+Joe Haden,nfl,Pittsburgh Steelers
+JuJu Smith-Schuster,nfl,Pittsburgh Steelers
+Keith Butler,nfl,Pittsburgh Steelers
+Landry Jones,nfl,Pittsburgh Steelers
+Leveon,nfl,Pittsburgh Steelers
+Martavis Bryant,nfl,Pittsburgh Steelers
+Shazier,nfl,Pittsburgh Steelers
+Steelers,nfl,Pittsburgh Steelers
+Stevan Ridley,nfl,Pittsburgh Steelers
+The Steelers,nfl,Pittsburgh Steelers
+Todd Haley,nfl,Pittsburgh Steelers
+Vance McDonald,nfl,Pittsburgh Steelers
+Vince Williams,nfl,Pittsburgh Steelers
+WR Antonio Brown,nfl,Pittsburgh Steelers
+Championship Sunday,nfl,Playoffs
+NOT A CATCH,nfl,Referee
+#SFvsLA,nfl,San Francisco 49ers
+Kyle Shanahan,nfl,San Francisco 49ers
+Marquise Goodwin,nfl,San Francisco 49ers
+Kris Richard,nfl,Seattle Seahawks
+Tyler Lockett,nfl,Seattle Seahawks
+Super Bowl,nfl,Super Bowl
+Doug Martin,nfl,Tampa Bay Buccaneers
+Mike Evans,nfl,Tampa Bay Buccaneers
+#TENvsNE,nfl,Tennessee Titans
+#TitanUp,nfl,Tennessee Titans
+Corey Davis,nfl,Tennessee Titans
+Derrick Henry,nfl,Tennessee Titans
+Jonnu Smith,nfl,Tennessee Titans
+Titans,nfl,Tennessee Titans
+#WASvsNYG,nfl,Washington Redskins
+Doctson,nfl,Washington Redskins
+Kirk Cousins,nfl,Washington Redskins
+Preston Smith,nfl,Washington Redskins
+Redskins,nfl,Washington Redskins
+Samaje Perine,nfl,Washington Redskins
+The Redskins,nfl,Washington Redskins
+#AnaheimDucksGoooaaalll,nhl,Anaheim Ducks
+#LetsGoDucks,nhl,Anaheim Ducks
+Eric Daze,nhl,Chicago Blackhawks
+Patrick Kane,nhl,Chicago Blackhawks
+Dylan Larkin,nhl,Detroit Red Wings
+Mike Green,nhl,Detroit Red Wings
+Tyler Bertuzzi,nhl,Detroit Red Wings
+Reilly Smith,nhl,Las Vegas Golden Knights
+#MINvsNSH,nhl,Minnesota Wild
+#Isles,nhl,New York Islanders
+Andrew Ladd,nhl,New York Islanders
+Beauvillier,nhl,New York Islanders
+Tanner Fritz,nhl,New York Islanders
+#WinterClassic,nhl,New York Rangers
+#LetsGoPens,nhl,Pittsburgh Penguins
+Malkin,nhl,Pittsburgh Penguins
+Tristan Jarry,nhl,Pittsburgh Penguins
+Jeremy Roenick,nhl,retired
+#HouHalf,running,Houston Marathon
+#HouMarathon,running,Houston Marathon
+Bournemouth,soc,AFC Bournemouth
+#Arsenal,soc,Arsenal FC
+Arsenal,soc,Arsenal FC
+Invincibles,soc,Arsenal FC
+Iwobi,soc,Arsenal FC
+Lacazette,soc,Arsenal FC
+#CHELEI,soc,Chelsea
+#CPFC,soc,Crystal Palace FC
+#CRYMCI,soc,Crystal Palace FC
+Crystal Palace,soc,Crystal Palace FC
+Jason Puncheon,soc,Crystal Palace FC
+Palace,soc,Crystal Palace FC
+Zaha,soc,Crystal Palace FC
+Everton,soc,Everton FC
+Leicester,soc,Leicester City FC
+Mahrez,soc,Leicester City FC
+#LIVMCI,soc,Liverpool
+Andy Robertson,soc,Liverpool
+Chamberlain,soc,Liverpool
+Emre Can,soc,Liverpool
+Gomez,soc,Liverpool
+Klavan,soc,Liverpool
+Klopp,soc,Liverpool
+Liverpool,soc,Liverpool
+Livers,soc,Liverpool
+Mo Salah,soc,Liverpool
+#ManCity,soc,Manchester City FC
+#MCFC,soc,Manchester City FC
+Aguero,soc,Manchester City FC
+De Bruyne,soc,Manchester City FC
+Ederson,soc,Manchester City FC
+Gabriel Jesus,soc,Manchester City FC
+John Stones,soc,Manchester City FC
+Leroy Sané,soc,Manchester City FC
+Manchester City,soc,Manchester City FC
+Sane,soc,Manchester City FC
+#EVEMUN,soc,Manchester United
+Real Madrid,soc,Real Madrid FC
+Zidane,soc,Real Madrid FC
+Anoeta,soc,Real Sociedad FC
+Real Sociedad,soc,Real Sociedad FC
+Mike Dean,soc,Referee
+#COYS,soc,Tottenham Hotspur FC
+#TOTEVE,soc,Tottenham Hotspur FC
+#WBAvAFC,soc,West Bromwich Albion FC
+West Brom,soc,West Bromwich Albion FC
+Serena Williams,ten,tennis
+#SDLive,wrest,WWE Smackdown
+Suarez,,
