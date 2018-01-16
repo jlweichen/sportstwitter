@@ -18,7 +18,7 @@ def makeFile(myPath):
     return True
 
 def writeData(myPath, a, b, c):
-    while (os.stat(myPath)).st_size < 2000:
+    while (os.stat(myPath)).st_size < 240000:
         csvWriter = csv.writer(open(myPath, 'a'))
         csvWriter.writerow([str(a), str(b), str(c)])
     return True
