@@ -1,7 +1,7 @@
 # Sports Twitter
 Using Twitter, Python and R to analyze sentiment before, during, and/or after a sports event
 ### Step 1: Use Python and the Tweepy library to stream tweets to a series of CSV files
-This is done using twitterpymain.py.
+This is done using the Tweepy, CSV, and OS libraries from PyPi. I wrote specific functions contained in buildingcsv.py, which are imported into twitterpymain.py, to write each tweet's username, time, and content into a CSV file. The twitterpymain.py script prompts the user to choose a prefix file name and the number of CSVs created.
 ### Step 2: Upload the CSV files to R and separate into data frames, one per team
 This is done with an R script.
 ### Step 3: Filtering out irrelevant tweets
