@@ -10,6 +10,6 @@ This is done using the Tweepy, CSV, and OS libraries from PyPi. I wrote specific
 ### Step 2: Upload the CSV files to R and separate into data frames, one per team
 This is done with an R script.
 ### Step 3: Filtering out irrelevant tweets
-Right now this is done with filtering common irrelevant terms. Long-term I hope to build an algorithm that can determine if the tweet is relevant to the sport. I am building a dictionary of sports terms and hashtags using what is trending, searching the term on Twitter, and noting to what sport and team each term refers.
+Right now this is done with filtering common irrelevant terms. Long-term I hope to build an algorithm that can determine if the tweet is relevant to the sport. For instance, filtering for 'patriots' culls not just tweets related to the NFL's New England Patriots, but also many irrelevant political tweets. I am building a dictionary of sports terms and hashtags using what is trending, searching the term on Twitter, and noting to what sport and team each term refers.
 ### Step 4: Sentiment analysis of each team's tweets
 This is done with tidytext and tm.
