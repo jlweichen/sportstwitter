@@ -6,11 +6,11 @@ import footballterms
 from http.client import IncompleteRead
 from urllib3.response import ReadTimeoutError
 
-consumer_key = "WpIT2i51OwEqnIfFn37Z67XGs"
-consumer_secret = "L8eRHwIPDs4VDRWgD0gyjHfr7RgDFRT3YGLDEjobCIAGOX5Khk"
+consumer_key =  #consumer key
+consumer_secret = #consumer secret
 
-access_key = "945460864337014784-pYXuu1fkG6UOhYbfac89bFAnm1xhfaG"
-access_secret = "yxdtBzCijx43OzekkiE2tCAiaPbLNwTiZRuQFYQ1ETefO"
+access_key = #access key
+access_secret = #access secret
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.secure = True
