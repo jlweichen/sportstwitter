@@ -12,4 +12,4 @@ This is done with an R script.
 ### Step 3: Filtering out irrelevant tweets
 Right now this is done with filtering common irrelevant terms. Long-term I hope to build an algorithm that can determine if the tweet is relevant to the sport. For instance, filtering for 'patriots' culls not just tweets related to the NFL's New England Patriots, but also many irrelevant political tweets. I am building a dictionary of sports terms and hashtags using what is trending, searching the term on Twitter, and noting to what sport and team each term refers.
 ### Step 4: Sentiment analysis of each team's tweets
-This is done with tidytext and tm. One interesting tweak that needs to be made to the sentiment lexicon is that the word "madden", which has negative connotations on its own, is also the surname of beloved NFL player, announcer, and video game namesake John Madden.
+This is done with tidytext and tm. One interesting tweak that needs to be made to the sentiment lexicon is that the word "madden", which has negative connotations on its own, is also the surname of beloved NFL coach, commentator, and video game namesake John Madden.
