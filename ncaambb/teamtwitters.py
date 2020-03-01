@@ -275,25 +275,25 @@ mac = {
     'Buffalo': '@UBmenshoops',
     'Ohio': '@OhioMBasketball',
     'Miami (OH)': '@MiamiOH_BBall',
-    'Northern Illinois': '@GoHuskiesMBB',
+    'Northern Ill.': '@GoHuskiesMBB',
     'Ball St.': '@BallStateMBB',
-    'Central Michigan': '@CMUMensBBall',
-    'Eastern Michigan': '@EMUHoops',
-    'Western Michigan': '@WMUMBB',
+    'Central Mich.': '@CMUMensBBall',
+    'Eastern Mich.': '@EMUHoops',
+    'Western Mich.': '@WMUMBB',
     'Toledo': '@ToledoMBB'
     }
 
 meac = {
-    'North Carolina A&T': '@ATAggieHoops',
-    'North Carolina Central': '@NCCU_MBB',
-    'Norfolk State': '@NSU_BBALL',
+    'N.C. A&T': '@ATAggieHoops',
+    'N.C. Central': '@NCCU_MBB',
+    'Norfolk St.': '@NSU_BBALL',
     'Florida A&M': '@famu_mbb',
     'Bethune-Cookman': '@BCUhoops',
-    'Morgan State': '@MorganStBears',
-    'South Carolina State': '@SCStateAthletic',
-    'Coppin State': '@CoppinMBB',
-    'Maryland-Eastern Shore': '@ESHawksHoops',
-    'Delaware State': '@DelawareMBB',
+    'Morgan St.': '@MorganStBears',
+    'South Carolina St.': '@SCStateAthletic',
+    'Coppin St.': '@CoppinMBB',
+    'UMES': '@ESHawksHoops',
+    'Delaware St.': '@DelawareMBB',
     'Howard': '@HUMensBB'
     }
 mvc = {
@@ -301,11 +301,11 @@ mvc = {
        'Loyola Chicago':'@RamblersMBB',
        'Bradley': '@bradleyumbb',
        'Indiana St.': '@IndStMBB',
-       'Southern Illinois': '@SIU_Basketball',
+       'Southern Ill.': '@SIU_Basketball',
        'Valparaiso': '@ValpoBasketball',
        'Missouri St.': '@MSUBearsHoops',
        'Drake': '@DrakeBulldogsMB',
-       'Illinois State': '@Redbird_MBB',
+       'Illinois St.': '@Redbird_MBB',
        'Evansville': '@UEAthletics_MBB'      
     }
 
@@ -317,39 +317,39 @@ mountainwest = {
     'Boise St.': '@BroncoSportsMBB',
     'Colorado St.': '@CSUMBasketball',
     'New Mexico': 'UNMLoboMBB',
-    'Fresno State': '@FresnoStateMBB',
+    'Fresno St.': '@FresnoStateMBB',
     'Air Force': '@AF_MBB',
-    'San Jose State': '@SanJoseStateMBB',
+    'San Jose St.': '@SanJoseStateMBB',
     'Wyoming': '@wyo_mbb'
     }
 
 nec = {
     'Merrimack':'@MerrimackMBB',
-    'St. Francis (PA)' : '@RedFlashMBB',
+    'Saint Francis (PA)' : '@RedFlashMBB',
     'Robert Morris': '@RMUMBasketball',
     'Sacred Heart': '@SHUBigRed',
-    'Long Island University': '@LIUBasketball',
+    'LIU': '@LIUBasketball',
     'Fairleigh Dickinson': '@FDUKnightsMBB',
-    'Mt. St. Mary\'s': '@MountHoops',
+    'Mount St. Mary\'s': '@MountHoops',
     'Bryant': '@BryantHoops',
-    'St. Francis (BKN)': '@sfbkmbb',
+    'St. Francis Brooklyn': '@sfbkmbb',
     'Wagner': '@Wagner_MBB',
-    'Central Connecticut': '@CCSU_MBB'
+    'Central Conn. St': '@CCSU_MBB'
     }
 
 ovc = {
     'Belmont': '@BelmontMBB',
-    'Murray State': '@RacersHoops',
+    'Murray St.': '@RacersHoops',
     'Austin Peay':'@AustinPeayMBB',
     'Eastern Ky.': '@EKUHoops',
     'Tennessee St.': '@TSUTigersMBB',
-    'Eastern Illinois': '@eiubasketball',
+    'Eastern Ill.': '@eiubasketball',
     'Jacksonville St.': '@JSUGamecocksMBB',
-    'Morehead St': '@MSUEaglesMBB',
+    'Morehead St.': '@MSUEaglesMBB',
     'Tennessee Tech': '@TTU_Basketball',
     'UT Martin': '@SkyhawkHoops',
-    'SIU-Edwardsville': '@SIUEMBB',
-    'SE Missouri': '@SEMOMBB'
+    'SIUE': '@SIUEMBB',
+    'Southeast Mo. St.': '@SEMOMBB'
     }
 
 bigteams= {**a10, **acc, **asun, **ameast, **american, **big12,
